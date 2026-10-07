@@ -57,7 +57,7 @@ House-Price-Prediction/
 git clone https://github.com/lakshitbuilds/House-Price-Prediction.git
 cd House-Price-Prediction
 pip install -r requirements.txt
-jupyter notebook
+jupyter lab
 ```
 
 Open:
@@ -66,13 +66,7 @@ Open:
 notebooks/house_price_prediction.ipynb
 ```
 
-You can also run:
-
-```bash
-python src/train_model.py
-```
-
-## Workflow
+## Jupyter Lab Workflow
 
 1. Load the dataset
 2. Understand columns and data types
